@@ -57,6 +57,8 @@ jspm_packages/
 
 # hello-world dependencies
 hello-world/node_modules
+invoke-hello-world/node_modules
+
 
 # Typescript v1 declaration files
 typings/
